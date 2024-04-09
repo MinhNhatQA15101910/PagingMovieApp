@@ -1,4 +1,4 @@
-package com.donhat.pagingmovieapp.models.entities;
+package com.donhat.pagingmovieapp.models;
 
 import androidx.annotation.Nullable;
 

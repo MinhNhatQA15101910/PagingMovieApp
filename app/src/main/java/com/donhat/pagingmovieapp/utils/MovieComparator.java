@@ -3,7 +3,7 @@ package com.donhat.pagingmovieapp.utils;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.DiffUtil;
 
-import com.donhat.pagingmovieapp.models.entities.Movie;
+import com.donhat.pagingmovieapp.models.Movie;
 
 public class MovieComparator extends DiffUtil.ItemCallback<Movie> {
     @Override

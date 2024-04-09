@@ -1,4 +1,4 @@
-package com.donhat.pagingmovieapp.models.entities;
+package com.donhat.pagingmovieapp.models;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
